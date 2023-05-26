@@ -2,5 +2,6 @@
     "name": "crossfade",
     "version": "0.0.1-beta",
     "displayName": "Crossfade",
-    "description": "Adds a crossfade between songs."
+    "description": "Adds a crossfade between songs.",
+    "author": "@erikenz"
 }
